@@ -1,0 +1,4 @@
+# Python 3.10
+
+selenium==4.4.0
+Faker==14.0.0
